@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sel",
+				"selectNonStriker"
+			],
+			[
+				"s",
+				"selectStriker"
+			],
+			[
+				"op",
+				"opA"
+			],
+			[
+				"ch",
+				"choiceOfToss"
+			],
+			[
+				"t",
+				"tossWinner"
+			],
+			[
+				"c",
+				"ChoiceOfToss"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"te",
+				"teamA"
+			],
+			[
+				"pl",
+				"playerofB"
+			],
+			[
+				"pla",
+				"playerofA"
+			],
+			[
+				"se",
+				"setItem"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"rad",
+				"radA"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"players",
+				"playersOfA"
+			],
+			[
+				"play",
+				"playersOfA"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"p",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"border-s",
+				"border-image-source\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"inp",
+				"inputOfOvers"
+			],
+			[
+				"n",
+				"Names"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title></title>\n</head>\n<body>\n\t<div id=\"main\" align=\"centre\">\n\t\t<h1 id=\"title\">Sir Nikola Tesla</h1>\n\t\t<div id=\"img-div\">\n\t\t\t<img src=\"\" id=\"img\">\n\t\t\t<p id=\"img-caption\"></p>\n\t\t\t<div id=\"tribute-info\"></div>\n\t\t\t<a href=\"\" id=\"tribute-link\"></a>\n\t\t</div>\n\t</div>\n</body>\n</html>",
+			"file": "Portfolio.html",
+			"file_size": 309,
+			"file_write_time": 132180413229454685,
+			"settings":
+			{
+				"buffer_size": 309,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package ",
+				"Install Package Control"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lenovo/Documents/cric web app/cric4.js",
+		"/C/Users/lenovo/Documents/cric web app/cric4.css",
+		"/C/Users/lenovo/Documents/cric web app/cric4.html",
+		"/C/Users/lenovo/Documents/cric web app/cric3.js",
+		"/C/Users/lenovo/Documents/cric web app/cric3.css",
+		"/C/Users/lenovo/Documents/cric web app/cric3.html",
+		"/C/Users/lenovo/Documents/cric web app/cric2.html",
+		"/C/Users/lenovo/Documents/cric web app/cric2.js",
+		"/C/Users/lenovo/Documents/cric web app/cric2.css",
+		"/C/Users/lenovo/Documents/cric web app/cricket scorer test.html",
+		"/C/Users/lenovo/Documents/cric web app/cric.css",
+		"/C/Users/lenovo/Documents/first one.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"();\n",
+			"hide",
+			"lightgreen",
+			"\";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Portfolio.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Portfolio.html",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

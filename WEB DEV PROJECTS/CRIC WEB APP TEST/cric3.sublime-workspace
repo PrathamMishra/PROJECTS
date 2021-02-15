@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sel",
+				"selectNonStriker"
+			],
+			[
+				"s",
+				"selectStriker"
+			],
+			[
+				"op",
+				"opA"
+			],
+			[
+				"ch",
+				"choiceOfToss"
+			],
+			[
+				"t",
+				"tossWinner"
+			],
+			[
+				"c",
+				"ChoiceOfToss"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"te",
+				"teamA"
+			],
+			[
+				"pl",
+				"playerofB"
+			],
+			[
+				"pla",
+				"playerofA"
+			],
+			[
+				"se",
+				"setItem"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"rad",
+				"radA"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"players",
+				"playersOfA"
+			],
+			[
+				"play",
+				"playersOfA"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"p",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"border-s",
+				"border-image-source\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"inp",
+				"inputOfOvers"
+			],
+			[
+				"n",
+				"Names"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cric3.html",
+			"settings":
+			{
+				"buffer_size": 1494,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cric3.css",
+			"settings":
+			{
+				"buffer_size": 622,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "//*********************************************\nvar playersOfA=new Array();\nvar playersOfB=new Array();\nvar selectStriker=document.querySelector(\"#striker\");\nvar selectNonStriker=document.querySelector(\"#nonStriker\");\nvar selectBowler=document.querySelector(\"#bowler\");\nvar opA=new Array();\nvar opB=new Array();\nvar chooseTossWinner=document.querySelector(\"#tossWinner\");\n\nvar choiceOfToss;\nvar takeChoiceOfToss=document.querySelector(\"#choiceOfToss\");\n//*********************************************\nfor (var i = 0; i>=0; i++) {\n\tif(localStorage.getItem(\"playersOfA\"+i)!==''){\n\t\tplayersOfA[i]=localStorage.getItem(\"playersOfA\"+i);\n\t}\n\telse{\n\t\ti=-2;\n\t}\n}\nfor (var i = 0; i>=0; i++) {\n\tif(localStorage.getItem(\"playersOfB\"+i)!==''){\n\t\tplayersOfB[i]=localStorage.getItem(\"playersOfB\"+i);\n\t}\n\telse{\n\t\ti=-2;\n\t}\n}\n\nchooseTossWinner.addEventListener(\"change\",function(){\n\ttossWinner=chooseTossWinner.value;\n\tlocalStorage.setItem(\"tossWinner\",tossWinner);\n});\n//*********************************************\n\ntakeChoiceOfToss.addEventListener(\"change\",function(){\n\tchoiceOfToss=takeChoiceOfToss.value;\n\tlocalStorage.setItem(\"choiceOfToss\",choiceOfToss);\n});\n\n//********************************************\n\n",
+			"file": "cric3.js",
+			"file_size": 2621,
+			"file_write_time": 132104425150457810,
+			"settings":
+			{
+				"buffer_size": 1200,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package ",
+				"Install Package Control"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lenovo/Documents/cric web app/cric2.js",
+		"/C/Users/lenovo/Documents/cric web app/cric2.html",
+		"/C/Users/lenovo/Documents/cric web app/cric2.css",
+		"/C/Users/lenovo/Documents/cric web app/cricket scorer test.html",
+		"/C/Users/lenovo/Documents/cric web app/cric.css",
+		"/C/Users/lenovo/Documents/first one.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"();\n",
+			"hide",
+			"lightgreen",
+			"\";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cric3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 522.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "cric3.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 376.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cric3.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1146,
+								1146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cric3.js",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

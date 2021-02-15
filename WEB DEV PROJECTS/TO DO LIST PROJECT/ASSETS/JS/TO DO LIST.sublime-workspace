@@ -1,0 +1,767 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"g",
+				"grey"
+			],
+			[
+				"b",
+				"text-bottom\tvertical-align"
+			],
+			[
+				"mARG",
+				"margin-top\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"s",
+				"squares"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"qy",
+				"querySelectorAll"
+			],
+			[
+				"tse",
+				"text-align-last\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"no",
+				"normBtn"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"pick",
+				"pickedColor"
+			],
+			[
+				"coo",
+				"colorDisplay"
+			],
+			[
+				"pi",
+				"pickColor"
+			],
+			[
+				"ge",
+				"generateRandomColors"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"res",
+				"resetButton"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"ran",
+				"randomColor"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mee",
+				"messageDisplay"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"clic",
+				"clickedColor"
+			],
+			[
+				"col",
+				"colors"
+			],
+			[
+				"color",
+				"colorDisplay"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"bo",
+				"border-left\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"pd",
+				"padding-top\tproperty"
+			],
+			[
+				"top",
+				"padding-top\tproperty"
+			],
+			[
+				"bir",
+				"border-radius\tproperty"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"sel",
+				"selectNonStriker"
+			],
+			[
+				"op",
+				"opA"
+			],
+			[
+				"ch",
+				"choiceOfToss"
+			],
+			[
+				"te",
+				"teamA"
+			],
+			[
+				"pl",
+				"playerofB"
+			],
+			[
+				"pla",
+				"playerofA"
+			],
+			[
+				"se",
+				"setItem"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"rad",
+				"radA"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"players",
+				"playersOfA"
+			],
+			[
+				"play",
+				"playersOfA"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"p",
+				"padding-left\tproperty"
+			],
+			[
+				"border-s",
+				"border-image-source\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"inp",
+				"inputOfOvers"
+			],
+			[
+				"n",
+				"Names"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title></title>\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"ASSETS/CSS/TO DO LIST.css\">\n\t<link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\" rel=\"stylesheet\">\n\t<script src=\"https://use.fontawesome.com/10b0eeb52d.js\"></script>\n\t<script type=\"text/javascript\" src=\"ASSETS/JS/LIB/jquery-3.5.1.min.js\"></script>\n</head>\n<body>\n\t<div id=\"container\">\n\t\t<h1>TO-DO LIST<i class=\"fa fa-plus\" aria-hidden=\"true\"></i></h1>\n\t\t<input type=\"text\" placeholder=\"Add New Todo\">\n\t\t<ul>\n\t\t\t<li><span><i class=\"fa fa-trash\"></i></span> potion</li>\n\t\t\t<li><span><i class=\"fa fa-trash\"></i></span> ropes</li>\n\t\t\t<li><span><i class=\"fa fa-trash\"></i></span> fly</li>\n\t\t</ul>\n\t</div>\n\t<script type=\"text/javascript\" src=\"ASSETS/JS/TO DO LIST.js\"></script>\n</body>\n</html>",
+			"file": "/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/TO DO LIST PROJECT/INDEX.html",
+			"file_size": 821,
+			"file_write_time": 132404966006252662,
+			"settings":
+			{
+				"buffer_size": 819,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "body{\n\tbackground: #2BC0E4;\n\tbackground: -webkit-linear-gradient(to right, #EAECC6, #2BC0E4);\n\tbackground: linear-gradient(to right, #EAECC6, #2BC0E4);\n}\nbody{\n\tfont-family: 'Roboto', sans-serif;\n}\n#container{\n\tbox-shadow: 0 0 3px rgba(0, 0, 0, 0.3);\n\twidth: 360px;\n\tmargin: 100px auto;\n\tbackground-color: #f7f7f7;\n}\nh1{\n\tbackground-color: #2980b9;\n\tcolor: white;\n\tpadding: 10px 20px;\n\tfont-size: 24px;\n\tfont-weight: normal;\n\tmargin: 0;\n}\ninput{\n\tfont-size: 18px;\n\tbackground-color: #f7f7f7;\n\twidth: 100%;\n\tpadding: 13px 13px 13px 20px;\n\tbox-sizing: border-box;\n\tcolor: #2980b9;\n\tborder: 3px solid rgba(0, 0, 0, 0);\n}\ninput:focus{\n\tbackground-color: white;\n\tborder: 3px solid #2980b9;\n\toutline: none;\n}\nul{\n\tlist-style: none;\n\tmargin: 0;\n\tpadding: 0;\n}\nli{\n\tbackground: #fff;\n\theight: 40px;\n\tline-height: 40px;\n\tcolor: #666;\n}\nli:nth-child(2n){\n\tbackground-color: #f7f7f7;\n}\nspan{\n\tbackground-color: #e74c3c;\n\theight: 40px;\n\tmargin-right: 20px;\n\ttext-align: center;\n\tcolor: white;\n\twidth: 0px;\n\tdisplay: inline-block;\n\ttransition: 0.2s linear;\n\topacity: 0;\n}\nli:hover span{\n\twidth: 40px;\n\topacity: 1;\n}\n.fa-plus{\n\tfloat: right;\n}\n.completed{\n\tcolor: grey;\n\ttext-decoration: line-through;\n}\n",
+			"file": "/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/TO DO LIST PROJECT/ASSETS/CSS/TO DO LIST.css",
+			"file_size": 1328,
+			"file_write_time": 132404966019710723,
+			"settings":
+			{
+				"buffer_size": 1190,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TO DO LIST.js",
+			"settings":
+			{
+				"buffer_size": 507,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/COLOR GAME PROJECT/COLOR GAME PROJECT.html",
+			"settings":
+			{
+				"buffer_size": 819,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/COLOR GAME PROJECT/COLOR GAME PROJECT.css",
+			"settings":
+			{
+				"buffer_size": 1188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/COLOR GAME PROJECT/COLOR GAME PROJECT.js",
+			"settings":
+			{
+				"buffer_size": 2491,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package ",
+				"Install Package Control"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/TO DO LIST PROJECT/ASSETS/JS/TO DO LIST.js",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/CALCULATOR/CALCULATOR.js",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/CALCULATOR/CALCULATOR.css",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/CALCULATOR/CALCULATOR.html",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/COLOR GAME PROJECT/COLOR GAME PROJECT.css",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/COLOR GAME PROJECT/COLOR GAME PROJECT.html",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/WEBSITE LANDING PAGE/WLP.css",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/WEBSITE LANDING PAGE/WLP.html",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/COLOR GAME PROJECT/COLOR GAME PROJECT.js",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/CSS BLOG/CSS BLOG PROJECT.css",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/CSS BLOG/CSS BLOG PROJECT.html",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/IMAGE GALLERY/image gallery.html",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/IMAGE GALLERY/Image Gallery.css",
+		"/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/IMAGE GALLERY/image Gallery,html.sublime-project",
+		"/C/Users/lenovo/Downloads/07+Image+Blog+1",
+		"/C/Users/lenovo/Documents/sublime text 3/from.css",
+		"/C/Users/lenovo/Documents/sublime text 3/form.html",
+		"/C/Users/lenovo/Documents/sublime text 3/xyzabc.cpp",
+		"/C/Users/lenovo/Documents/sublime text 3/octus.jpg",
+		"/C/Users/lenovo/Documents/sublime text 3/Portfolio.html",
+		"/C/Users/lenovo/Documents/sublime text 3/portfolio.css",
+		"/C/Users/lenovo/Documents/cric web app/Portfolio.html",
+		"/C/Users/lenovo/Documents/cric web app/cric4.js",
+		"/C/Users/lenovo/Documents/cric web app/cric4.css",
+		"/C/Users/lenovo/Documents/cric web app/cric4.html",
+		"/C/Users/lenovo/Documents/cric web app/cric3.js",
+		"/C/Users/lenovo/Documents/cric web app/cric3.css",
+		"/C/Users/lenovo/Documents/cric web app/cric3.html",
+		"/C/Users/lenovo/Documents/cric web app/cric2.html",
+		"/C/Users/lenovo/Documents/cric web app/cric2.js",
+		"/C/Users/lenovo/Documents/cric web app/cric2.css",
+		"/C/Users/lenovo/Documents/cric web app/cricket scorer test.html",
+		"/C/Users/lenovo/Documents/cric web app/cric.css",
+		"/C/Users/lenovo/Documents/first one.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 143.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\");\n",
+			"through",
+			"\";\n",
+			";\n",
+			"div",
+			"span",
+			";\n",
+			"\");\n",
+			"easy",
+			"<div class=\"square\"></div>",
+			">\n",
+			"from",
+			"align",
+			"();\n",
+			"hide",
+			"lightgreen",
+			"\";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"button"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/TO DO LIST PROJECT/INDEX.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								731,
+								731
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/TO DO LIST PROJECT/ASSETS/CSS/TO DO LIST.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "TO DO LIST.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/COLOR GAME PROJECT/COLOR GAME PROJECT.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/COLOR GAME PROJECT/COLOR GAME PROJECT.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/lenovo/Documents/PROJECTS/WEB DEV PROJECTS/COLOR GAME PROJECT/COLOR GAME PROJECT.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								683
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 54.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TO DO LIST.js",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
